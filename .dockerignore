@@ -1,0 +1,15 @@
+target/
+.mvn/
+.git/
+.env
+.env.example
+.vscode/
+.idea/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
